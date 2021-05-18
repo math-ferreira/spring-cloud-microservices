@@ -1,6 +1,5 @@
 package com.hrworker.entities.domain
 
-import lombok.NoArgsConstructor
 import javax.persistence.*
 
 @Entity

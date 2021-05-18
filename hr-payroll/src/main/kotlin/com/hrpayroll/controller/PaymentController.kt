@@ -2,6 +2,7 @@ package com.hrpayroll.controller
 
 import com.hrpayroll.entities.domain.Payment
 import com.hrpayroll.services.PaymentService
+import com.hrpayroll.services.impl.PaymentServiceImpl
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable
