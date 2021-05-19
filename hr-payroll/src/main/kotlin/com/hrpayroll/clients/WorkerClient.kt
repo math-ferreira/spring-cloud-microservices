@@ -1,7 +1,6 @@
 package com.hrpayroll.clients
 
 import com.hrpayroll.entities.domain.Worker
-import org.springframework.cloud.netflix.ribbon.RibbonClient
 import org.springframework.cloud.openfeign.FeignClient
 import org.springframework.stereotype.Component
 import org.springframework.web.bind.annotation.GetMapping
